@@ -10,7 +10,7 @@
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
-I'm a **FullStack Developer** with a strong foundation in **.NET Core** and **Clean Architecture**. I'm now applying these same software engineering principles to build robust and scalable APIs with **NestJS** and **TypeScript**. On the frontend, I create modern interfaces with **Next.js**.
+I'm a **FullStack Developer** with a strong foundation in **.NET Core** and **Clean Architecture**. I'm now applying these same software engineering principles to build robust and scalable APIs with **NestJS** and **TypeScript**. On the frontend, I create modern interfaces with **Next.js** and **shadcn/ui**.
 
 Passionate about transforming complex challenges into efficient, maintainable, and well-architected solutions. Currently seeking **remote opportunities** to contribute to impactful projects.
 
@@ -32,8 +32,14 @@ Passionate about transforming complex challenges into efficient, maintainable, a
 
 **Frontend**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Design UI/UX: Figma](https://img.shields.io/badge/Design%20UI/UX%20-Figma-F24E1E?logo=figma&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?logo=react&logoColor=white)
+
+**Design UI/UX**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![UI/UX Design](https://img.shields.io/badge/UI/UX%20Design-FF6B6B?logo=adobe&logoColor=white)
+![Prototyping](https://img.shields.io/badge/Prototyping-FF4088?logo=adobexd&logoColor=white)
 
 **Database**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
@@ -54,7 +60,7 @@ Passionate about transforming complex challenges into efficient, maintainable, a
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **Kairos** | Full-stack event management system built with Clean Architecture principles. | .NET 8, Next.js, PostgreSQL | [![GitHub](https://img.shields.io/badge/Repo-181717?logo=github)](https://github.com/Adyllsxn/kairos) [![Live](https://img.shields.io/badge/Live_Demo-0e75b6?logo=google-chrome)](https://kairos-topaz.vercel.app/) |
+| **Kairos** | Full-stack event management system built with Clean Architecture principles. | .NET 8, Next.js, PostgreSQL, shadcn/ui | [![GitHub](https://img.shields.io/badge/Repo-181717?logo=github)](https://github.com/Adyllsxn/kairos) [![Live](https://img.shields.io/badge/Live_Demo-0e75b6?logo=google-chrome)](https://kairos-topaz.vercel.app/) |
 | **FRAPI - REST** | A ready-to-run mock REST API for frontend developers to practice CRUD operations. | ASP.NET Core | [![GitHub](https://img.shields.io/badge/Repo-181717?logo=github)](https://github.com/Adyllsxn/frapi-rest) |
 | **FRAPI - GraphQL** | A mock GraphQL API built with HotChocolate for practicing queries and mutations. | ASP.NET Core, HotChocolate | [![GitHub](https://img.shields.io/badge/Repo-181717?logo=github)](https://github.com/Adyllsxn/frapi-graphql) |
 
