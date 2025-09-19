@@ -25,9 +25,9 @@ Passionate about transforming complex challenges into efficient, maintainable, a
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 **Backend & APIs**
-![.NET](https://img.shields.io/badge/.NET%20Ecosystem-512BD4?logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js%20Ecosystem-339933?logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 
 **Frontend**
