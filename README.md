@@ -33,7 +33,6 @@ Passionate about transforming complex challenges into efficient, maintainable, a
 **Frontend**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?logo=react&logoColor=white)
 
 **Design UI/UX**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
