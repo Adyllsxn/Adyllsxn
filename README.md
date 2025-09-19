@@ -37,8 +37,6 @@ Passionate about transforming complex challenges into efficient, maintainable, a
 
 **Design UI/UX**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![UI/UX Design](https://img.shields.io/badge/UI/UX%20Design-FF6B6B?logo=adobe&logoColor=white)
-![Prototyping](https://img.shields.io/badge/Prototyping-FF4088?logo=adobexd&logoColor=white)
 
 **Database**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
