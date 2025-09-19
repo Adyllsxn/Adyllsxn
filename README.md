@@ -55,7 +55,7 @@ Passionate about transforming complex challenges into efficient, maintainable, a
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **Kairos** | Full-stack event management system built with Clean Architecture principles. | .NET 8, Next.js, PostgreSQL, shadcn/ui | [![GitHub](https://img.shields.io/badge/Repo-181717?logo=github)](https://github.com/Adyllsxn/kairos) [![Live](https://img.shields.io/badge/Live_Demo-0e75b6?logo=google-chrome)](https://kairos-topaz.vercel.app/) |
+| **Kairos** | Full-stack event management system built with Clean Architecture principles. | ASP.NET Core , React Js, PostgreSQL | [![GitHub](https://img.shields.io/badge/Repo-181717?logo=github)](https://github.com/Adyllsxn/kairos) [![Live](https://img.shields.io/badge/Live_Demo-0e75b6?logo=google-chrome)](https://kairos-topaz.vercel.app/) |
 | **FRAPI - REST** | A ready-to-run mock REST API for frontend developers to practice CRUD operations. | ASP.NET Core | [![GitHub](https://img.shields.io/badge/Repo-181717?logo=github)](https://github.com/Adyllsxn/frapi-rest) |
 | **FRAPI - GraphQL** | A mock GraphQL API built with HotChocolate for practicing queries and mutations. | ASP.NET Core, HotChocolate | [![GitHub](https://img.shields.io/badge/Repo-181717?logo=github)](https://github.com/Adyllsxn/frapi-graphql) |
 
