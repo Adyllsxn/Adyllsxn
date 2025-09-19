@@ -32,8 +32,8 @@ Passionate about transforming complex challenges into efficient, maintainable, a
 
 **Frontend**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?logo=react&logoColor=white)
 
 **Design UI/UX**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
@@ -42,7 +42,6 @@ Passionate about transforming complex challenges into efficient, maintainable, a
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 
 **Tools & DevOps**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
@@ -81,7 +80,7 @@ Passionate about transforming complex challenges into efficient, maintainable, a
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://adyllsxn.vercel.app)
 
 - 🔭 **I'm currently open to remote opportunities**
-- 💬 **Ask me about:** .NET Ecosystem, NestJS, Next.js, or Clean Architecture
+- 💬 **Ask me about:** .NET, NestJS, Next.js, or Clean Architecture
 - 📧 **Email me:** domingosadyllsxn@gmail.com
 
 **⚡ Fun fact:** I'm passionate about turning complex problems into simple, elegant solutions!
