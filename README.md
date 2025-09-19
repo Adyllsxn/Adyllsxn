@@ -10,9 +10,9 @@
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
-I'm a **FullStack Developer** with expertise in **.NET Core** and **Clean Architecture**. I build robust backend systems using **ASP.NET Core** for enterprise solutions and **Express.js** for Node.js APIs. On the frontend, I create modern interfaces with **Next.js** and **shadcn/ui**.
+I'm **Domingos Nascimento**, a Developer focused on **.NET Core** and **Node.js**. I build robust APIs with **ASP.NET Core** and **Express.js**, and modern interfaces with **Next.js**.
 
-Passionate about transforming complex challenges into efficient, maintainable solutions. Currently seeking **remote opportunities** to contribute to impactful projects.
+I enjoy transforming complex problems into well-architected solutions. I'm looking to collaborate on interesting projects and I'm open to new connections and opportunities.
 
 ---
 
