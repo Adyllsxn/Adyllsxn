@@ -1,10 +1,10 @@
 <!-- Banner animado com Capsule Render -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=FullStack%20Developer&fontSize=30&fontColor=00d9ff&animation=fadeIn&fontAlignY=40&desc=.NET%20Core%20%7C%20Node.js%20%7C%20Next.js&descSize=18&descAlignY=60&descAlign=50" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=FullStack%20Developer&fontSize=30&fontColor=00d9ff&animation=fadeIn&fontAlignY=40&desc=.NET%20Core%20%7C%20Node.js&descSize=18&descAlignY=60&descAlign=50" alt="Header" />
 
 <div align="center">
 
   <!-- Texto animado com Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00d9ff&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Domingos+Nascimento;.NET%20Core%20%7C%20Node.js%20%7C%20Next.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00d9ff&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Domingos+Nascimento;.NET%20Core%20%7C%20Node.js" alt="Typing SVG" />
 
 </div>
 
