@@ -74,7 +74,6 @@ Full Stack Developer focused on creating complete solutions by combining high-pe
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
 | **Portfolio** | My personal portfolio with modern and responsive design, showcasing my projects and skills. | Next.js, Tailwind CSS, JavaScript | [![GitHub](https://img.shields.io/badge/Repo-181717?logo=github)](https://github.com/Adyllsxn/Adyllsxn/tree/main/portfolio) [![Live](https://img.shields.io/badge/Live_Demo-0e75b6?logo=google-chrome)](https://adyllsxn.vercel.app/) |
-| **Kairos** | Modern platform with 3D animations, responsive design and immersive user experience. | React.js, Three.js, Tailwind CSS | [![GitHub](https://img.shields.io/badge/Repo-181717?logo=github)](https://github.com/Adyllsxn/kairos) [![Live](https://img.shields.io/badge/Live_Demo-0e75b6?logo=google-chrome)](https://kaiross.vercel.app/) |
 
 ---
 
@@ -82,7 +81,6 @@ Full Stack Developer focused on creating complete solutions by combining high-pe
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **FRAPI GraphQL** | Ready-to-run mock GraphQL API for frontend developers to practice queries and mutations. | .NET 8, HotChocolate, InMemory | [![GitHub](https://img.shields.io/badge/Repo-181717?logo=github)](https://github.com/Adyllsxn/frapi-graphql) |
 | **FRAPI REST** | Ready-to-run mock REST API for frontend developers to practice CRUD operations and integrations. | .NET 8, Swagger, InMemory | [![GitHub](https://img.shields.io/badge/Repo-181717?logo=github)](https://github.com/Adyllsxn/frapi-rest) |
 
 ---
