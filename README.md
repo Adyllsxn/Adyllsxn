@@ -91,7 +91,7 @@
 <!-- Footer estiloso com frase maneira -->
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00d9ff&center=true&vCenter=true&width=600&lines=Building+the+future%2C+one+line+of+code+at+a+time;Code.+Create.+Conquer.;Turning+ideas+into+digital+reality;Web+%26+Mobile+Solutions+for+a+Connected+World)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00d9ff&center=true&vCenter=true&width=600&lines=Building+the+future%2C+one+line+of+code+at+a+time;Code.+Create.+Conquer.;Turning+ideas+into+digital+reality;)
   
 </div>
 
