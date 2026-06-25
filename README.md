@@ -40,10 +40,11 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
 
 **Database & ORM**: 
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-0C344B?logo=prisma&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?logo=dotnet&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-0C344B?logo=prisma&logoColor=white)
 
 **DevOps & Tools**: 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
