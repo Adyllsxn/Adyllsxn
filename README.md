@@ -57,16 +57,8 @@
 
 <div align="center">
   <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adyllsxn&theme=transparent" alt="Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adyllsxn&layout=compact&title_color=00d9ff&text_color=ffffff&bg_color=0d1117&hide_border=true"/>
   
-  <picture>
-    <source
-        srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adyllsxn&theme=tokyonight"
-        media="(prefers-color-scheme: dark)">
-    <source 
-        srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adyllsxn&theme=github"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
-    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adyllsxn&theme=transparent" />
-  </picture>
 </div>
 
 ---
