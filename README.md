@@ -1,6 +1,6 @@
 **.NET • Node.js**
 
-<!-- Banner simplificado sem section=header -->
+<!-- Banner simplificado sem section=heade -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&text=Software%20Engineer&fontSize=30&fontColor=00d9ff&animation=fadeIn&fontAlignY=35&desc=Building%20%E2%80%A2%20Scalable%20%E2%80%A2%20Systems&descSize=18&descAlignY=55" alt="Header" />
 </div>
