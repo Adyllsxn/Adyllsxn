@@ -1,4 +1,4 @@
-**.NET • Node.js**
+**WEB • MOBILE • API**
 
 <!-- Banner simplificado sem section=heade -->
 <div align="center">
