@@ -36,15 +36,6 @@
 | **Database** | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
 
 ---
-### 📈 GitHub Stats
-
-<div align="center">
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adyllsxn&theme=transparent" alt="Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adyllsxn&layout=compact&title_color=00d9ff&text_color=ffffff&bg_color=0d1117&hide_border=true"/>
-  
-</div>
-
----
 
 ### 📊 Development Analytics
 
