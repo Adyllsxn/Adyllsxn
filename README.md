@@ -62,8 +62,8 @@ alt="Header" />
       <br>Expo
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br>Next.js
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br>Figma
     </td>
   </tr>
 
