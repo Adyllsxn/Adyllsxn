@@ -31,32 +31,24 @@ alt="Header" />
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript" />
       <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
-      <br>Dart
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="48" height="48" alt="C#" />
       <br>C#
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
-      <br>Flutter
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br>Next.js
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
       <br>React Native
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="96">
       <img src="https://cdn.simpleicons.org/expo/000020" width="48" height="48" alt="Expo" />
       <br>Expo
@@ -65,9 +57,6 @@ alt="Header" />
       <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
       <br>Figma
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
       <br>.NET
@@ -76,6 +65,9 @@ alt="Header" />
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
@@ -84,9 +76,6 @@ alt="Header" />
       <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
       <br>Supabase
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
       <br>GraphQL
@@ -95,6 +84,9 @@ alt="Header" />
       <img src="https://cdn.simpleicons.org/fastapi/009688" width="48" height="48" alt="REST API" />
       <br>REST API
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
       <br>GitHub
@@ -104,9 +96,6 @@ alt="Header" />
         width="48" height="48" alt="Git" />
       <br>Git
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
       <br>Docker
@@ -115,15 +104,8 @@ alt="Header" />
       <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
-      <br>Azure
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br>VS Code
-    </td>
   </tr>
+
 </table>
 
   <br>
